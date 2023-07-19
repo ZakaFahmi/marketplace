@@ -1,2 +1,2 @@
-# jawatani
-website buat jual beli di bidang pertanian (webnya mirip dengan bukalapak)
+# marketplace
+website ini masih menggunakan code igniter 3
